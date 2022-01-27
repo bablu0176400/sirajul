@@ -1,0 +1,138 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: boder-box;
+}
+ body{
+   
+   background-image:url('h.png/');
+   background-repeat:no-repeat;
+   background-size: cover;
+ }
+ h1{
+   color: black;
+   text-align: center;
+   background-color: white;
+   font-size: 40px;
+   font-style: italic;
+   border: 5px solid yellow;
+   margin-top: 10px;
+   font: bold;
+ }   
+ h1:hover{
+   color:blue;
+   background-color: black;
+   border: 5px solid  red;
+   
+   
+ }
+ h3{
+   text-align: center;
+   margin-top: 5px;
+   color: blue;
+  font-style: italic;
+ }
+ h4{
+   text-align:center;
+   color: red;
+   margin-top: 5px;
+   font-style:italic;
+ }
+.div2{
+  margin:10px;
+  
+  font-style: italic;
+  text-decoration:none;
+  border: 5px solid red;
+  background-color:white;
+  display:inline;
+  text-decoration:none;
+  font-size: 80px;
+  border-radius:5px;
+}
+.div2:hover{
+  background-color: black;
+  color:blue;
+  border:5px dotted blue ;
+  
+}
+.div2 a:hover{
+  color: white;
+}
+.div3{
+  margin: 10px;
+  text-decoration:none;
+  font-style: italic;
+  border:5px dashed blue;
+  font-size: 80px;
+}
+.div4{
+  font-style: italic;
+  text-decoration: none;
+  font-size:80px ;
+  border: 5px dashed yellow;
+  margin:10px;
+  
+}
+.div3 a:hover{
+  color: yellow;
+  background-color: black;
+  
+}
+.div4 a:hover{
+  color: black;
+}
+.div5{
+  margin: 10px;
+  text-decoration: none;
+  font-size:80px;
+  font-style: italic;
+  border: 5px dotted yellow;
+  background-color: blue;
+  color: white;
+  width: 260px;
+}
+.div6{
+  margin: 10px;
+  text-decoration: none;
+  font-style: italic;
+  font-size: 80px;
+  color: black;
+  background-color: white;
+  border: 5px solid red;
+  
+}
+.div7{
+  font-size: 80px;
+  font-style: italic;
+  text-decoration: none;
+  color: white;
+  background-color: black;
+  border: 5px dashed yellow;
+  width: 300px;
+}
+.div5 a:hover{
+  color: white;
+}
+.div6 a:hover{
+  
+  color: yellow;
+  
+}
+}
+.div7 a:hover{
+  color: red;
+}
+.item1{
+margin-top: h40px;
+}
+marquee{
+  font-style: italic;
+  background-color: white;
+  border: 10px dashed yellow;
+  font-size: 60px;
+}   
+   
+.div5 a {
+  color: red;
+}
